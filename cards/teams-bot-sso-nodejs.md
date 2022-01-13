@@ -26,7 +26,7 @@ Here's the tooling that you'll need to install to build this app.
 
 ## App type
 
-- Teams bot
+- Teams bot<br>
   _This is the type of app you’ll build. Use this string to search for more information about your app._
 
 ## App SDK
