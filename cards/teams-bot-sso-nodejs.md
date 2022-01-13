@@ -101,8 +101,8 @@ Official documentation from Microsoft relevant to this type of app.
 
 Here's where you can submit feedback, and suggestions for new features.
 
-- [Microsoft Teams](https://feedbackportal.microsoft.com/feedback/forum/ad198462-1c1c-ec11-b6e7-0022481f8472)
+- [Microsoft Teams](https://feedbackportal.microsoft.com/feedback/forum/ad198462-1c1c-ec11-b6e7-0022481f8472)<br>
   _Go here to share feedback and feature ideas for Microsoft Teams with Microsoft_
-- [Microsoft Graph](https://docs.microsoft.com/answers/products/graph)
+- [Microsoft Graph](https://docs.microsoft.com/answers/products/graph)<br>
   _Go here to share feedback and feature ideas for Microsoft Graph with Microsoft_
 - Bot Framework
