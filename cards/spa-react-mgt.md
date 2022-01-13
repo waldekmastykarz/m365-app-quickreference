@@ -73,7 +73,7 @@ Resources on Microsoft Learn that teach you in a structured way how to build thi
 Tutorials that you can follow to learn how to build this type of app step by step.
 
 - [Use the Microsoft Graph Toolkit with React](https://docs.microsoft.com/graph/toolkit/get-started/use-toolkit-with-react)<br>
-  _Step-by-step tutorial that shows how to use MGT with React web apps_
+  _Step-by-step tutorial that shows how to use MGT with React web apps. Contains information about and step-by-step walkthrough to create the necessary Azure AD app registration._
 
 ### Videos
 
